@@ -39,9 +39,9 @@ This project analyzes the relationship between cryptocurrency trader behavior an
 
 ##  How to Run This Project
 
-###  Google Colab (**
+###  Google Colab 
 1. **Upload data to Google Drive** in folder `csv_files/`
-2. **Open** `notebook_1.ipynb` in Google Colab
+2. **Open** `https://colab.research.google.com/drive/1HqfRHJSMCegxhvh4IVbcL85jLSXhhQFu?usp=sharing` in Google Colab
 3. **Mount Google Drive:**
    ```python
    from google.colab import drive
@@ -49,7 +49,8 @@ This project analyzes the relationship between cryptocurrency trader behavior an
    ```
 4. **Update file paths:**
    ```python
-   trader_data = pd.read_csv('/content/drive/MyDrive/csv_files/historical_trader_data.csv')
+   trader_data = pd.read_csv('/content/historical_data.csv')
+   sentiment_data = pd.read_csv('/content/fear_greed_index.csv')
    ```
 5. **Run all cells sequentially**
 
