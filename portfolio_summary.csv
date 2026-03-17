@@ -1,0 +1,10 @@
+Metric,Value,Dollar Value
+Historical VaR (95%),-2.78%,"$-27,812"
+Parametric VaR (95%),-3.10%,"$-30,998"
+Conditional VaR (95%),-4.55%,"$-45,541"
+Current Volatility,78.94%,-
+Average Volatility,27.67%,-
+Sharpe Ratio,0.69,-
+Calmar Ratio,0.58,-
+Max Drawdown,-40.30%,-
+Max Drawdown Date,2022-09-01,-
