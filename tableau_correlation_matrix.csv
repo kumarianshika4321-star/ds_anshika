@@ -1,0 +1,145 @@
+Indicator_X,Indicator_Y,Correlation,Abs_Correlation,Correlation_Label,Strength
+Close,Close,1.0,1.0,1.0000,Strong Positive
+Daily_Return,Close,0.1343,0.1343,0.1343,Neutral
+Volume,Close,-0.0267,0.0267,-0.0267,Neutral
+SMA_7,Close,0.997,0.997,0.9970,Strong Positive
+SMA_30,Close,0.984,0.984,0.9840,Strong Positive
+SMA_200,Close,0.9066,0.9066,0.9066,Strong Positive
+RSI,Close,0.2351,0.2351,0.2351,Neutral
+MACD,Close,0.7596,0.7596,0.7596,Strong Positive
+ATR,Close,0.8499,0.8499,0.8499,Strong Positive
+BB_Upper,Close,0.9925,0.9925,0.9925,Strong Positive
+BB_Lower,Close,0.9715,0.9715,0.9715,Strong Positive
+Volatility,Close,0.4688,0.4688,0.4688,Weak Positive
+Close,Daily_Return,0.1343,0.1343,0.1343,Neutral
+Daily_Return,Daily_Return,1.0,1.0,1.0000,Strong Positive
+Volume,Daily_Return,-0.0181,0.0181,-0.0181,Neutral
+SMA_7,Daily_Return,0.089,0.089,0.0890,Neutral
+SMA_30,Daily_Return,0.0821,0.0821,0.0821,Neutral
+SMA_200,Daily_Return,0.0683,0.0683,0.0683,Neutral
+RSI,Daily_Return,0.2483,0.2483,0.2483,Neutral
+MACD,Daily_Return,0.1188,0.1188,0.1188,Neutral
+ATR,Daily_Return,0.0998,0.0998,0.0998,Neutral
+BB_Upper,Daily_Return,0.0918,0.0918,0.0918,Neutral
+BB_Lower,Daily_Return,0.0722,0.0722,0.0722,Neutral
+Volatility,Daily_Return,0.0501,0.0501,0.0501,Neutral
+Close,Volume,-0.0267,0.0267,-0.0267,Neutral
+Daily_Return,Volume,-0.0181,0.0181,-0.0181,Neutral
+Volume,Volume,1.0,1.0,1.0000,Strong Positive
+SMA_7,Volume,-0.0257,0.0257,-0.0257,Neutral
+SMA_30,Volume,-0.0266,0.0266,-0.0266,Neutral
+SMA_200,Volume,-0.0356,0.0356,-0.0356,Neutral
+RSI,Volume,-0.012,0.012,-0.0120,Neutral
+MACD,Volume,-0.0068,0.0068,-0.0068,Neutral
+ATR,Volume,-0.0366,0.0366,-0.0366,Neutral
+BB_Upper,Volume,-0.0268,0.0268,-0.0268,Neutral
+BB_Lower,Volume,-0.0234,0.0234,-0.0234,Neutral
+Volatility,Volume,-0.0253,0.0253,-0.0253,Neutral
+Close,SMA_7,0.997,0.997,0.9970,Strong Positive
+Daily_Return,SMA_7,0.089,0.089,0.0890,Neutral
+Volume,SMA_7,-0.0257,0.0257,-0.0257,Neutral
+SMA_7,SMA_7,1.0,1.0,1.0000,Strong Positive
+SMA_30,SMA_7,0.9906,0.9906,0.9906,Strong Positive
+SMA_200,SMA_7,0.9173,0.9173,0.9173,Strong Positive
+RSI,SMA_7,0.2057,0.2057,0.2057,Neutral
+MACD,SMA_7,0.7398,0.7398,0.7398,Strong Positive
+ATR,SMA_7,0.8418,0.8418,0.8418,Strong Positive
+BB_Upper,SMA_7,0.9956,0.9956,0.9956,Strong Positive
+BB_Lower,SMA_7,0.9804,0.9804,0.9804,Strong Positive
+Volatility,SMA_7,0.4703,0.4703,0.4703,Weak Positive
+Close,SMA_30,0.984,0.984,0.9840,Strong Positive
+Daily_Return,SMA_30,0.0821,0.0821,0.0821,Neutral
+Volume,SMA_30,-0.0266,0.0266,-0.0266,Neutral
+SMA_7,SMA_30,0.9906,0.9906,0.9906,Strong Positive
+SMA_30,SMA_30,1.0,1.0,1.0000,Strong Positive
+SMA_200,SMA_30,0.9449,0.9449,0.9449,Strong Positive
+RSI,SMA_30,0.1334,0.1334,0.1334,Neutral
+MACD,SMA_30,0.644,0.644,0.6440,Weak Positive
+ATR,SMA_30,0.8017,0.8017,0.8017,Strong Positive
+BB_Upper,SMA_30,0.9905,0.9905,0.9905,Strong Positive
+BB_Lower,SMA_30,0.9932,0.9932,0.9932,Strong Positive
+Volatility,SMA_30,0.4627,0.4627,0.4627,Weak Positive
+Close,SMA_200,0.9066,0.9066,0.9066,Strong Positive
+Daily_Return,SMA_200,0.0683,0.0683,0.0683,Neutral
+Volume,SMA_200,-0.0356,0.0356,-0.0356,Neutral
+SMA_7,SMA_200,0.9173,0.9173,0.9173,Strong Positive
+SMA_30,SMA_200,0.9449,0.9449,0.9449,Strong Positive
+SMA_200,SMA_200,1.0,1.0,1.0000,Strong Positive
+RSI,SMA_200,0.115,0.115,0.1150,Neutral
+MACD,SMA_200,0.476,0.476,0.4760,Weak Positive
+ATR,SMA_200,0.6533,0.6533,0.6533,Weak Positive
+BB_Upper,SMA_200,0.9136,0.9136,0.9136,Strong Positive
+BB_Lower,SMA_200,0.948,0.948,0.9480,Strong Positive
+Volatility,SMA_200,0.3576,0.3576,0.3576,Weak Positive
+Close,RSI,0.2351,0.2351,0.2351,Neutral
+Daily_Return,RSI,0.2483,0.2483,0.2483,Neutral
+Volume,RSI,-0.012,0.012,-0.0120,Neutral
+SMA_7,RSI,0.2057,0.2057,0.2057,Neutral
+SMA_30,RSI,0.1334,0.1334,0.1334,Neutral
+SMA_200,RSI,0.115,0.115,0.1150,Neutral
+RSI,RSI,1.0,1.0,1.0000,Strong Positive
+MACD,RSI,0.4653,0.4653,0.4653,Weak Positive
+ATR,RSI,0.1197,0.1197,0.1197,Neutral
+BB_Upper,RSI,0.1539,0.1539,0.1539,Neutral
+BB_Lower,RSI,0.1359,0.1359,0.1359,Neutral
+Volatility,RSI,0.0504,0.0504,0.0504,Neutral
+Close,MACD,0.7596,0.7596,0.7596,Strong Positive
+Daily_Return,MACD,0.1188,0.1188,0.1188,Neutral
+Volume,MACD,-0.0068,0.0068,-0.0068,Neutral
+SMA_7,MACD,0.7398,0.7398,0.7398,Strong Positive
+SMA_30,MACD,0.644,0.644,0.6440,Weak Positive
+SMA_200,MACD,0.476,0.476,0.4760,Weak Positive
+RSI,MACD,0.4653,0.4653,0.4653,Weak Positive
+MACD,MACD,1.0,1.0,1.0000,Strong Positive
+ATR,MACD,0.8094,0.8094,0.8094,Strong Positive
+BB_Upper,MACD,0.7211,0.7211,0.7211,Strong Positive
+BB_Lower,MACD,0.619,0.619,0.6190,Weak Positive
+Volatility,MACD,0.3833,0.3833,0.3833,Weak Positive
+Close,ATR,0.8499,0.8499,0.8499,Strong Positive
+Daily_Return,ATR,0.0998,0.0998,0.0998,Neutral
+Volume,ATR,-0.0366,0.0366,-0.0366,Neutral
+SMA_7,ATR,0.8418,0.8418,0.8418,Strong Positive
+SMA_30,ATR,0.8017,0.8017,0.8017,Strong Positive
+SMA_200,ATR,0.6533,0.6533,0.6533,Weak Positive
+RSI,ATR,0.1197,0.1197,0.1197,Neutral
+MACD,ATR,0.8094,0.8094,0.8094,Strong Positive
+ATR,ATR,1.0,1.0,1.0000,Strong Positive
+BB_Upper,ATR,0.8624,0.8624,0.8624,Strong Positive
+BB_Lower,ATR,0.7539,0.7539,0.7539,Strong Positive
+Volatility,ATR,0.6562,0.6562,0.6562,Weak Positive
+Close,BB_Upper,0.9925,0.9925,0.9925,Strong Positive
+Daily_Return,BB_Upper,0.0918,0.0918,0.0918,Neutral
+Volume,BB_Upper,-0.0268,0.0268,-0.0268,Neutral
+SMA_7,BB_Upper,0.9956,0.9956,0.9956,Strong Positive
+SMA_30,BB_Upper,0.9905,0.9905,0.9905,Strong Positive
+SMA_200,BB_Upper,0.9136,0.9136,0.9136,Strong Positive
+RSI,BB_Upper,0.1539,0.1539,0.1539,Neutral
+MACD,BB_Upper,0.7211,0.7211,0.7211,Strong Positive
+ATR,BB_Upper,0.8624,0.8624,0.8624,Strong Positive
+BB_Upper,BB_Upper,1.0,1.0,1.0000,Strong Positive
+BB_Lower,BB_Upper,0.9729,0.9729,0.9729,Strong Positive
+Volatility,BB_Upper,0.5027,0.5027,0.5027,Weak Positive
+Close,BB_Lower,0.9715,0.9715,0.9715,Strong Positive
+Daily_Return,BB_Lower,0.0722,0.0722,0.0722,Neutral
+Volume,BB_Lower,-0.0234,0.0234,-0.0234,Neutral
+SMA_7,BB_Lower,0.9804,0.9804,0.9804,Strong Positive
+SMA_30,BB_Lower,0.9932,0.9932,0.9932,Strong Positive
+SMA_200,BB_Lower,0.948,0.948,0.9480,Strong Positive
+RSI,BB_Lower,0.1359,0.1359,0.1359,Neutral
+MACD,BB_Lower,0.619,0.619,0.6190,Weak Positive
+ATR,BB_Lower,0.7539,0.7539,0.7539,Strong Positive
+BB_Upper,BB_Lower,0.9729,0.9729,0.9729,Strong Positive
+BB_Lower,BB_Lower,1.0,1.0,1.0000,Strong Positive
+Volatility,BB_Lower,0.4146,0.4146,0.4146,Weak Positive
+Close,Volatility,0.4688,0.4688,0.4688,Weak Positive
+Daily_Return,Volatility,0.0501,0.0501,0.0501,Neutral
+Volume,Volatility,-0.0253,0.0253,-0.0253,Neutral
+SMA_7,Volatility,0.4703,0.4703,0.4703,Weak Positive
+SMA_30,Volatility,0.4627,0.4627,0.4627,Weak Positive
+SMA_200,Volatility,0.3576,0.3576,0.3576,Weak Positive
+RSI,Volatility,0.0504,0.0504,0.0504,Neutral
+MACD,Volatility,0.3833,0.3833,0.3833,Weak Positive
+ATR,Volatility,0.6562,0.6562,0.6562,Weak Positive
+BB_Upper,Volatility,0.5027,0.5027,0.5027,Weak Positive
+BB_Lower,Volatility,0.4146,0.4146,0.4146,Weak Positive
+Volatility,Volatility,1.0,1.0,1.0000,Strong Positive
